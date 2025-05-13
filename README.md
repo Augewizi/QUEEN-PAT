@@ -165,3 +165,29 @@ git clone https://github.com/Matrix1999/Queen-Adiza
 cd Queen-Adiza
 npm install
 npm start
+
+FOR TERMUX
+
+apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
+cd /sdcard
+cd bot folder name
+yarn install
+npm start
+
+FOR 24/7 ACTIVATION PM2 (TERMUX)
+
+npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
+
+FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)
+
+npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
+
+</details>
+<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘! </h2>
+This bot is made for educational purposes only hence DO NOT MISUSE.
+© AUGE-WIZI
+
+MIT License
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+
