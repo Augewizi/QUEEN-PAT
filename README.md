@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/Augewizi9/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matrix1999?color=ff69b4&style=flat-square"></a>
-<a href="https://github.com/Matrix1999/Queen-Adiza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matrix1999/Queen-Adiza?color=00b7eb&style=flat-square"></a>
+<a href="https://github.com/Augewizi9/followers"><img title="Followers" src="https://img.shields.io/github/followers/AUGE_WIZI1999?color=ff69b4&style=flat-square"></a>
+<a href="https://github.com/Augewizi/QUEEN-PAT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Augewizi/QUEEN-PAT?color=00b7eb&style=flat-square"></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Matrix1999/Queen-Adiza?color=00b7eb&style=flat-square"></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matrix1999/Queen-Adiza?label=Watchers&color=00b7eb&style=flat-square"></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/Matrix1999/Queen-Adiza?style=flat-square&color=32cd32"></a>
