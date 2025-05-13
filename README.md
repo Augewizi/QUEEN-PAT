@@ -150,3 +150,18 @@ git clone https://github.com/Matrix1999/Queen-Adiza.git
 cd Queen-Adiza 
 npm start
 
+FOR SSH/UBUNTU/LINUX
+
+sudo apt-get update
+sudo apt-get upgrade -y
+sudo apt-get install -y bash
+sudo apt-get install -y libwebp
+sudo apt-get install -y git
+sudo apt-get install -y nodejs
+sudo apt-get install -y ffmpeg
+sudo apt-get install -y wget
+sudo apt-get install -y imagemagick
+git clone https://github.com/Matrix1999/Queen-Adiza
+cd Queen-Adiza
+npm install
+npm start
