@@ -13,23 +13,23 @@ src="https://files.catbox.moe/vf5q1y.png">
 
 <p align="center">
 <a href="https://github.com/Matri199/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matri199?color=purple&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-PAT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matri199/QUEEN-PAT?color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-PAT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Matri199/Queen-PAT?color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-PAT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matri199/Queen-PAT?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Matri199/Queen-PAT/"><img title="Size" src="https://img.shields.io/github/repo-size/Matri199/Queen-PAT?style=flat-square&color=green"></a>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatri199%2FQUEEN-PAT&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Matri199/Queen-PAT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
+<a href="https://github.com/Matri199/Adiza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matri199/Adiza?color=blue&style=flat-square"></a>
+<a href="https://github.com/Matri199/Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Matri199/Adiza?color=blue&style=flat-square"></a>
+<a href="https://github.com/Matri199/Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matri199/Adiza?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Matri199/Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/Matri199/Adiza?style=flat-square&color=green"></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMatri199%2FAdiza&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
+<a href="https://github.com/Matri199/Adiza/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>
 </p>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{Queen-PAT}/count.svg" alt="Matri199 :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{Adiza}/count.svg" alt="Matri199 :: Visitor's Count" /></p>
 
 <p align="center">
-<a href="https://github.com/Matri199/Queen-PAT"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a>
+<a href="https://github.com/Matri199/Adiza"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a>
 <img src="https://komarev.com/ghpvc/?username=QUEEN-PAT&label=VIEWS&style=flat-square&color=blue" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Matri199/Queen-PAT"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+<a href="https://github.com/Matri199/Adiza"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 </p>
 
 <p align='center'>
@@ -42,7 +42,7 @@ src="https://files.catbox.moe/vf5q1y.png">
 Click the button below to fork QUEEN PAT Repository to your GitHub account:
 
 <p align="left">
-<a href="https://github.com/Matri199/Queen-PAT/fork"><img title="Queen-PAT-V2" src="https://img.shields.io/badge/FORK-QUEEN-PAT-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Matri199/Adiza/fork"><img title="Queen-PAT-V2" src="https://img.shields.io/badge/FORK-QUEEN-PAT-V2?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 </p>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
@@ -59,21 +59,21 @@ Click the button below to fork QUEEN PAT Repository to your GitHub account:
 
 ## `DEPLOYMENTS`
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMatri199%2FQueen-PAT) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FMatri199%2FAdiza) 
 
-[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/Matri199/Queen-PAT)
+[![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/Matri199/Adiza)
 
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
 
-... *(Deployment instructions remain same, just replace "Adiza" with "Queen-PAT")* ...
+... *(Deployment instructions stay the same; only the name now refers to "QUEEN PAT")* ...
 
 </details>
 
 <details>
 <summary>𝘔𝘖𝘙𝘌 𝘋𝘌𝘗𝘓𝘖𝘠𝘔𝘌𝘕𝘛𝘚</summary>
 
-... *(More deployment links with "Queen-PAT")* ...
+... *(Additional platforms or options referring to QUEEN PAT)* ...
 
 </details>
 
