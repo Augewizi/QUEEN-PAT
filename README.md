@@ -200,7 +200,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© MATRIX Bot**
+**© AUGE-WIZI**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
