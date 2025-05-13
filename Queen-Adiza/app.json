@@ -1,23 +1,23 @@
 {
-  "name": "Queen Adiza",
+  "name": "Queen PAT",
   "version": "2.4.2",
-  "description": "Adiza, the best WhatsApp Bot",
+  "description": "PAT, the best WhatsApp Bot",
   "logo": "https://files.catbox.moe/rhjkfl.jpg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/Matrix1999/Queen-Adiza",
+  "repository": "https://github.com/Augewizi/QUEEN-PAT.git",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
   },
   "env": {
     "SESSION_ID": {
-      "description": "Enter your Adiza session id here; must start with QUEEN-ADIZA~",
+      "description": "Enter your QUEEN-PAT session id here; must start with QUEEN-ADIZA~",
       "value": "",
       "required": false
     },
     "BOT_NAME": {
       "description": "Enter your bot name here",
-      "value": "Adiza-Bot",
+      "value": "QUEEN-PAT-Bot",
       "required": false
     },
     "OWNER_NUMBER": {
@@ -32,12 +32,12 @@
     },
     "STICKER_PACK_NAME": {
       "description": "Sticker pack name",
-      "value": "Adiza",
+      "value": "PAT",
       "required": false
     },
     "STICKER_AUTHOR_NAME": {
       "description": "Sticker author name",
-      "value": "Adiza",
+      "value": "PAT",
       "required": false
     },
     "HEROKU_API_KEY": {
