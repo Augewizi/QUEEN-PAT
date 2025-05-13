@@ -1,9 +1,7 @@
-
-
 <img align="center" height="auto"
 src="https://files.catbox.moe/vf5q1y.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=Q+U+E+E+N+P+A+T+▇)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF¢er=true&vCenter=true&width=815&height=60&lines=Q+U+E+E+N+P+A+T+▇)](https://git.io/typing-svg)
 <br>
 
    </p>
@@ -13,16 +11,16 @@ src="https://files.catbox.moe/vf5q1y.png">
 
  <p align="center">
 <a href="https://github.com/Matrix1999/followers"><img title="Followers" src="https://img.shields.io/github/followers/Matrix1999?color=purple&style=flat-square"></a>
-<a href="https://github.com/Matrix1999/Queen-Adiza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matrix1999/QUEEN-ADIZA?color=blue&style=flat-square"></a>
+<a href="https://github.com/Matrix1999/Queen-Adiza/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Matrix1999/Queen-Adiza?color=blue&style=flat-square"></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Matrix1999/Queen-Adiza?color=blue&style=flat-square"></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Matrix1999/Queen-Adiza?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/Matrix1999/Queen-Adiza?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FQueen-Adiza&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Matrix1999/Queen-Adiza/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
+<a href="https://github.com/Matrix1999/Queen-Adiza/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>  </a>
 <p align="center"><img src="https://profile-counter.glitch.me/{Queen-Adiza}/count.svg" alt="Matrix1999 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Matrix1999}/count.svg" /></p>
 <p align="center">
-<a href="https://github.com/Matrix1999/Queen-"Adiza"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=QUEEN-ADIZA&label=VIEWS&style=flat-square&color=blue" />
+<a href="https://github.com/Matrix1999/Queen-Adiza"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a>  
+  <img src="https://komarev.com/ghpvc/?username=QUEEN-PAT&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
   <a href="https://github.com/Matrix1999/Queen-Adiza"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
@@ -31,17 +29,15 @@ src="https://files.catbox.moe/vf5q1y.png">
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `QUEEN ADIZA INSTALLATION`
-
-
+## 🛠️ `QUEEN-PAT INSTALLATION`
 
 1. Fork and star this repo first
 
-Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
+Click the button below to fork QUEEN-PAT Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/Matrix1999/Queen-Adiza/fork"><img title="Queen-Adiza-V2" src="https://img.shields.io/badge/FORK-ADIZA-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Matrix1999/Queen-Adiza/fork"><img title="Queen-QUEEN-PAT-V2" src="https://img.shields.io/badge/FORK-QUEEN-PAT-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -62,16 +58,14 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 💯 safe
     <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-
 [![Deploy on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://repl.it/github/Matrix1999/Queen-Adiza)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
 
-* `Fork` QUEEN ADIZA Repository or `sync` if you had forked.
+* `Fork` QUEEN-PAT Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -82,7 +76,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search Queen Adiza, and connect.
+* Search Queen-Adiza, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -155,54 +149,4 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 git clone https://github.com/Matrix1999/Queen-Adiza.git
 cd Queen-Adiza 
 npm start
-```
 
-## `FOR SSH/UBUNTU/LINUX`
-```bash
-sudo apt-get update
-sudo apt-get upgrade -y
-sudo apt-get install -y bash
-sudo apt-get install -y libwebp
-sudo apt-get install -y git
-sudo apt-get install -y nodejs
-sudo apt-get install -y ffmpeg
-sudo apt-get install -y wget
-sudo apt-get install -y imagemagick
-git clone https://github.com/Matrix1999/Queen-Adiza
-cd Queen-Adiza
-npm install
-npm start
-```
-
-## `FOR TERMUX`
-```bash
-apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y && pkg install bash -y && pkg install libwebp -y && pkg install git -y && pkg install nodejs -y && pkg install ffmpeg -y && pkg install wget -y && pkg install imagemagick -y && pkg install yarn && termux-setup-storage
-cd /sdcard
-cd bot folder name
-yarn install
-npm start
-```
-
-## `FOR 24/7 ACTIVATION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs
-```
-
-## `FOR 24/7 ACTIVATION RE-EXECUTION PM2 (TERMUX)`
-```bash
-npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
-```
-</details>
-
-##
-<h2 align="center">  𝗣𝗢𝗟𝗜𝗧𝗘 𝗡𝗢𝗧𝗜𝗖𝗘!
-</h2>
-
-- This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
-
-**© AUGE-WIZI**
-##
-![MIT License](https://img.shields.io/badge/License-green.svg)
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/>
