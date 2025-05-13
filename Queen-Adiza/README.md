@@ -8,7 +8,7 @@ src="https://files.catbox.moe/sql1zr.jpg?">
 
    </p>
 <p align="center">
-<a href="https://github.com/Matrix1999"><img title="Author" src="https://img.shields.io/badge/Matrix King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@matrix-zat"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233593734312"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Augewizi/QUEEN-PAT.git"><img title="Author" src="https://img.shields.io/badge/Matrix King-blue?style=for-the-badge&logo=Github"></a> <a href="https://youtube.com/@matrix-zat"><img title="Author" src="https://img.shields.io/badge/YT CHANNEL-darkred?style=for-the-badge&logo=youtube"></a> <a href="https://wa.me/233593734312"><img title="Author" src="https://img.shields.io/badge/Contact Me-darkgreen?style=for-the-badge&logo=whatsapp"></a>
 <p/> 
 
  <p align="center">
@@ -19,29 +19,27 @@ src="https://files.catbox.moe/sql1zr.jpg?">
 <a href="https://github.com/Matrix1999/Queen-Adiza/"><img title="Size" src="https://img.shields.io/github/repo-size/Matrix1999/Queen-Adiza?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkingmalvn%2FQueen-Adiza&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
 <a href="https://github.com/Matrix1999/Queen-Adiza/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;</a>
-<p align="center"><img src="https://profile-counter.glitch.me/{Queen-Adiza}/count.svg" alt="Matrix1999 :: Visitor's Count" old_src="https://profile-counter.glitch.me/{Matrix1999}/count.svg" /></p>
-<p align="center">
-<a href="https://github.com/Matrix1999/Queen-"Adiza"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=QUEEN-ADIZA&label=VIEWS&style=flat-square&color=blue" />
+<p align="center"><img src="https://profile-counter.glitch.me/{Queen-Adiza}/count.svg" alt="Matrix1999 :: Visitor's Count" "PAT"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=flat-square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=QUEEN-PAT&label=VIEWS&style=flat-square&color=blue" />
 </a>
 <p align="center">
-  <a href="https://github.com/Matrix1999/Queen-Adiza"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
+  <a href="https://github.com/Augewizi/QUEEN-PAT.git"><img title="Release" src="https://img.shields.io/badge/Release-beta%20v2.0-darkcyan.svg?style=for-the-badge&logo=appveyor" /></a>
 
 <p align='center'>
     </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## 🛠️ `QUEEN ADIZA INSTALLATION`
+## 🛠️ `QUEEN PAT INSTALLATION`
 
 
 
 1. Fork and star this repo first
 
-Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
+Click the button below to fork QUEEN PAT Repository to your GitHub account:
 
   <br>
     <p align="left">
-  <a href="https://github.com/Matrix1999/Queen-Adiza/fork"><img title="Queen-Adiza-V2" src="https://img.shields.io/badge/FORK-ADIZA-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="[https://github.com/Augewizi/QUEEN-PAT.git](https://github.com/Augewizi/QUEEN-PAT/fork"><img title="Queen-PAT-V2" src="https://img.shields.io/badge/FORK-PAT-V2h?color=darkblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
@@ -71,7 +69,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 <details>
 <summary>𝘋𝘌𝘗𝘓𝘖𝘠 𝘛𝘖 𝘏𝘌𝘙𝘖𝘒𝘜, 𝘔𝘌𝘛𝘏𝘖𝘋 2</summary>
  
-* `Fork` QUEEN ADIZA Repository or `sync` if you had forked.
+* `Fork` QUEEN PAT Repository or `sync` if you had forked.
 * `Link` to your WhatsApp using Server 1, 2 or 3
 * Incase you use Server 2, paste the session id on settings.js @SESSION_ID
 * If you used Server 3, upload the `creds.json` received in the `session` folder.
@@ -82,7 +80,7 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
 * Then choose create new app
 * Enter your app name and Create.
 * Connect with your GitHub account.
-* Search Queen Adiza, and connect.
+* Search Queen PAT, and connect.
 * Press deploy and wait for a few minutes.
 * Enjoy.
 </details>
@@ -152,8 +150,8 @@ Click the button below to fork QUEEN ADIZA Repository to your GitHub account:
   
 ## `CLONE REPO & INSTALLATION DEPENDENCIES`
 ```bash
-git clone https://github.com/Matrix1999/Queen-Adiza.git
-cd Queen-Adiza 
+git clone https://github.com/Augewizi/QUEEN-PAT.git
+cd Queen-PAT
 npm start
 ```
 
@@ -168,8 +166,8 @@ sudo apt-get install -y nodejs
 sudo apt-get install -y ffmpeg
 sudo apt-get install -y wget
 sudo apt-get install -y imagemagick
-git clone https://github.com/Matrix1999/Queen-Adiza
-cd Queen-Adiza
+git clone https://github.com/Augewizi/QUEEN-PAT.git
+cd Queen-PAT
 npm install
 npm start
 ```
@@ -200,7 +198,7 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 
 - This bot is made for educational purposes `only` hence `DO NOT MISUSE`.
 
-**© MATRIX Bot**
+**© WIZI TECH Bot**
 ##
 ![MIT License](https://img.shields.io/badge/License-green.svg)
 
