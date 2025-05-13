@@ -5,7 +5,7 @@
 
 <p align="center">
 <a href="https://github.com/Augewizi/QUEEN-PAT.git"><img title="Author" src="https://img.shields.io/badge/Matrix_King-ff1493?style=for-the-badge&logo=Github"></a> 
-<a href="https://youtube.com/@matrix-zat"><img title="Author" src="https://img.shields.io/badge/YT_CHANNEL-ff4500?style=for-the-badge&logo=youtube"></a> 
+<a href="https://youtube.com/@Augewizi7"><img title="Author" src="https://img.shields.io/badge/YT_CHANNEL-ff4500?style=for-the-badge&logo=youtube"></a> 
 <a href="https://wa.me/233593734312"><img title="Author" src="https://img.shields.io/badge/Contact_Me-00ff7f?style=for-the-badge&logo=whatsapp"></a>
 </p>
 
