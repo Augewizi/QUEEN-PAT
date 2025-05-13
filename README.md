@@ -188,4 +188,4 @@ npm i -g pm2 && pm2 start index.js -f && pm2 save && pm2 logs
 This bot is made for educational purposes only hence DO NOT MISUSE. 
 © AUGE-WIZI 
 MIT License
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+             ✦͙͙͙*͙*❥⃝∗⁎.ʚ [] ɞ.⁎∗❥⃝**͙✦͙͙͙
